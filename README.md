@@ -6,7 +6,7 @@
 
 ### Работа приложения
 ***
-<img align="right" src="https://ie.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.24.20.png" alt="drawing" alt="drawing" style="width:150px;"/> 1. Главный экран предлагает либо начать пробежку, либо перейти в таббар меню в историю прбежек.
+<img align="right" src="https://ie.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.24.20.png" alt="drawing" alt="drawing" style="width:130px;"/> 1. Главный экран предлагает либо начать пробежку, либо перейти в таббар меню в историю прбежек.
 
 2. При нажатии кнопки "Бег" открывается экран с подсчетом времени пробежки, пройденной дистанции в км и средней скорости бега. Для остановки режима бега предусмотрен слайдер.
 
@@ -24,9 +24,10 @@ CAGradientLayer,
 SnapKit. 
 Архитектура - CleanSwift.
 
-<img align="left" src="https://ic.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.24.55.png" alt="drawing" alt="drawing" style="width:150px;"/>
-<img align="center" src="https://ie.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.44.58.png" alt="drawing" alt="drawing" style="width:150px;"/>
-<img align="left" src="https://im.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.45.44.png" alt="drawing" alt="drawing" style="width:150px;"/>
+<img align="left" src="https://ic.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.24.55.png" alt="drawing" alt="drawing" style="width:130px;"/>
+<img align="center" src="https://ie.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.44.58.png" alt="drawing" alt="drawing" style="width:130px;"/>
+<img align="left" src="https://im.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.45.44.png" alt="drawing" alt="drawing" style="width:130px;"/>
+
 ***
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTgzMDRjZDY0ZTcxNTE1NDdjMTQ2OTNmMzExZmE4YjQyMTRjNjM3OSZjdD1n/q6fxjN1L9BUPvlqGUO/giphy.gif" alt="animated"> 
