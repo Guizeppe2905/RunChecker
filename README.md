@@ -1,34 +1,34 @@
 # YoDaBox
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&multiline=true&height=70&lines=YoDaBox+%3D+Your+Data+Box;People+earn+by+watching+ads+%26;Business+gets+the+hottest+target+audience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0B9020&width=435&lines=%D0%A1%D0%BB%D0%B5%D0%B4%D0%B8+%D0%B7%D0%B0+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B5%D0%B9+%D1%81%D0%B2%D0%BE%D0%B8%D1%85+%D0%BF%D1%80%D0%BE%D0%B1%D0%B5%D0%B6%D0%B5%D0%BA!)](https://git.io/typing-svg)
 ***
-The main idea is to create an App where users can watch ads that are relevant to their interests & job and earn some fee for that. This way Business companies get the hottest target audience for their adverting and other marketing goals.
-***
-
-### Quick testing
-***
-<img align="right" src="https://ie.wampi.ru/2022/06/24/SNIMOK-EKRANA-2022-06-24-V-17.29.10.png" alt="drawing" style="width:250px;"/> The pet-project has two modes: Business & Private User. The quickest way to test it would be:
-1. Proceed first to the User Mode, have a quick view of defaults settings. At Profile folder one can personalize the App. Once you choose the field you work at (Occupation folder), the ads below will be changed. Every time you provide more info at Hobbies, Food, Pets etc. folders, the ads at the scroll view below will get more and more relevant to your personal interests and needs. Account form has some basic info such as email&password to test Sign-In menu. The last folder named Balance calculates the number of ads watched and the total amount earned. 
-2. Proceed to Business Mode, here you can imagine that you need to place an ad for your target audience. Very quick and short forms - Profile & Create your ad - will help you to set personalized advertising (Remember the industry you have chosen for your company). Check the preview of your ad at "Watch your ad"
-3. Go back to Private User Mode. If you indicate the same industry at Occupation folder that you have chosen at Business mode before, and run the ad below after that, the user will get the Company's personalized ad & info. 
-Those are main and basic stuff to test, but if you have time there are more things to test.
+Цель проекта - отработать построение архитектуры Clean Swift, скелетное построение таблиц, максимально автономную организацию контроллеров, навигацию через координатор, а также поигарть с анимацией на CALayer.
 ***
 
-### Description
+### Работа приложения
 ***
-#### Mission
-YoDaBox mission is to help both users and companies to meet each other interests in the most convinient and efficient way. 
-People get tired of useless and annoying ads, spam etc. But imagine if you get paid for watching ads, moreover, all ads are totally relevant to your job, hobbies, status, pets, travels etc...
-Also companies are much more interested in people who really watch / read / listen to the provided information. Business is still spending money on phone calls, mailing, posting ads, even if the data base is quite cold. Intead of paying for such advertising, one can use YoDaBox and always be sure that your ad reaches your potential customer.
-#### Demo
-This pet-project is just a demo, that's why it proposes you a set of videos which can be transformed into an ad. The demo is set for comfortable and quick testing and to get a first glance of the project. 
-User mode can be personalized in 6 fields - Occupation, Travel, Pets, Food, Hobbies, Other Interests & Needs. If you select any option, the App will propose you a new set of ads relevant to your info. 
-By default all ads inform you that you can use them as a template for advertising your Company. Once settings at Business Mode are changed, the ad gets changed too and provides your information - Company's name, Brand name, Slogan, website.
+<img align="right" src="https://ie.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.24.20.png" alt="drawing" alt="drawing" style="width:150px;"/> 1. Главный экран предлагает либо начать пробежку, либо перейти в таббар меню в историю прбежек.
+
+2. При нажатии кнопки "Бег" открывается экран с подсчетом времени пробежки, пройденной дистанции в км и средней скорости бега. Для остановки режима бега предусмотрен слайдер.
+
+3. Все пробежки сохраняются в истории с полной детальной информацией и датой. При нажатии на каждый треккер можно также восстановить на карте пройденный маршрут.
+***
+
+<img align="left" src="https://ic.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.24.55.png" alt="drawing" alt="drawing" style="width:150px;"/>### Стэк
+***
+UIKit,
+Realm,
+CoreAnimation,
+CoreLocation,
+MapKit,
+CAGradientLayer,
+SnapKit. 
+Архитектура - CleanSwift.
+
+<img align="right" src="https://ie.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.44.58.png" alt="drawing" alt="drawing" style="width:150px;"/>
+<img align="left" src="https://im.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.45.44.png" alt="drawing" alt="drawing" style="width:150px;"/>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/ibPBFAAwnvCfzUfavN/giphy.gif" alt="animated"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTgzMDRjZDY0ZTcxNTE1NDdjMTQ2OTNmMzExZmE4YjQyMTRjNjM3OSZjdD1n/q6fxjN1L9BUPvlqGUO/giphy.gif" alt="animated"> 
 
-***
-### Stack
-***
-Private User Mode is made fully using SwiftUI, and Business Mode is made using UIKit. That was made on perpose to show both possibilities. The code is based on MVVM pattern. UserDefaults were enough for saving all user settings as it doesn't consist of any big data. Interface & design was planned in the way to use many animation elements and graphics. Layouts were chosen from Figma, some images transformed by Canva. Libraries used: UIKit, SwiftUI, SnapKit, Foundation, AVKit, Combine, AVFoundation.
-<p align="center">
-<img src="https://media.giphy.com/media/TC59t6BDltvM82ESoY/giphy.gif" alt="animated" />
+
+
