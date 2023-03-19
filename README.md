@@ -26,9 +26,9 @@ SnapKit.
 
 <img align="left" src="https://ic.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.24.55.png" alt="drawing" alt="drawing" style="width:130px;"/>
 <img align="center" src="https://ie.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.44.58.png" alt="drawing" alt="drawing" style="width:130px;"/>
-<img align="left" src="https://im.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.45.44.png" alt="drawing" alt="drawing" style="width:130px;"/>
+<img align="right" src="https://im.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.45.44.png" alt="drawing" alt="drawing" style="width:130px;"/>
 
-***
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTgzMDRjZDY0ZTcxNTE1NDdjMTQ2OTNmMzExZmE4YjQyMTRjNjM3OSZjdD1n/q6fxjN1L9BUPvlqGUO/giphy.gif" alt="animated"> 
 
