@@ -24,9 +24,16 @@ CAGradientLayer,
 SnapKit. 
 Архитектура - CleanSwift.
 
-<img align="left" src="https://ic.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.24.55.png" alt="drawing" alt="drawing" style="width:130px;"/>
+<!-- <img align="left" src="https://ic.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.24.55.png" alt="drawing" alt="drawing" style="width:130px;"/>
 <img align="center" src="https://ie.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.44.58.png" alt="drawing" alt="drawing" style="width:130px;"/>
-<img align="right" src="https://im.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.45.44.png" alt="drawing" alt="drawing" style="width:130px;"/>
+<img align="right" src="https://im.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.45.44.png" alt="drawing" alt="drawing" style="width:130px;"/> -->
+
+
+<p float="left">
+  <img src="https://ic.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.24.55.png" width="100" />
+  <img src="https://ie.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.44.58.png" width="100" /> 
+  <img src="https://im.wampi.ru/2023/03/19/SNIMOK-EKRANA-2023-03-19-V-17.45.44.png" width="100" />
+</p>
 
 
 <p align="center">
